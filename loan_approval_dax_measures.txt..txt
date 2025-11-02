@@ -1,0 +1,11 @@
+Approval_percentage = DIVIDE( CALCULATE(COUNTROWS(loan_approval_dataset), loan_approval_dataset[loan_status] = "Y"),COUNTROWS(loan_approval_dataset),0) 
+
+Approval_Rate_Employmenyt = DIVIDE(CALCULATE(COUNTROWS(loan_approval_dataset), loan_approval_dataset[loan_status] = "Y" ), COUNTROWS(loan_approval_dataset),0)
+
+Average_credit_Approved = CALCULATE(AVERAGE(loan_approval_dataset[Credit_Score]),loan_approval_dataset[loan_status] = "Y" )
+
+Average_CreditScore_Rejected = Calculate( Average(loan_approval_dataset[Credit_Score]),loan_approval_dataset[loan_status] = "N")
+
+Avg_Loan_Amount_Approved = CALCULATE(AVERAGE(loan_approval_dataset[Loan_Amount]),loan_approval_dataset[loan_status] = "y" )
+
+Total_Loan_Approved = CALCULATE(SUM(loan_approval_dataset[Loan_Amount]),loan_approval_dataset[loan_status] = "Y" )
