@@ -46,7 +46,7 @@ The dataset used is **“Loan Approval Dataset”** from Kaggle, available here:
 ###  Dashboard Snapshots
 | Dashboard View | Description |
 |----------------|-------------|
-| ![Dashboard Overview](images/dashboard-overview.png.png) | Main overview showing KPIs and filters |
+| ![Dashboard Overview](Loan-approval-analysis/dashboard-overview.png.png) | Main overview showing KPIs and filters |
 | ![By Employment](images/approval-by-employment.png) | Approval % by Employment Status |
 | ![By Property](images/approval-by-property.png) | Approval % by Property Ownership |
 | ![By Purpose](images/approval-by-purpose.png) | Loan Approval % by Loan Purpose |
