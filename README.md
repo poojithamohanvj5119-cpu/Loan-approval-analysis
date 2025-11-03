@@ -47,7 +47,7 @@ The dataset used is **“Loan Approval Dataset”** from Kaggle, available here:
 | Dashboard View | Description |
 |----------------|-------------|
 | ![Dashboard Overview](Loan-approval-analysis/dashboard-overview.png.png) | Main overview showing KPIs and filters |
-> *Note:* The full interactive dashboard with individual visualizations (Channel-wise, region-wise, year-wise, and promotion impact) is available in attached
+> *Note:* The full interactive dashboard with individual visualizations is available in attached.
 > **Power BI (.pbix) ** file.
 
 ---
