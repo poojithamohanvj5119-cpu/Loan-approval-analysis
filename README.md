@@ -47,11 +47,8 @@ The dataset used is **“Loan Approval Dataset”** from Kaggle, available here:
 | Dashboard View | Description |
 |----------------|-------------|
 | ![Dashboard Overview](Loan-approval-analysis/dashboard-overview.png.png) | Main overview showing KPIs and filters |
-| ![By Employment](images/approval-by-employment.png) | Approval % by Employment Status |
-| ![By Property](images/approval-by-property.png) | Approval % by Property Ownership |
-| ![By Purpose](images/approval-by-purpose.png) | Loan Approval % by Loan Purpose |
-| ![Credit Comparison](images/avg-credit-approved-vs-rejected-by-loan-status.png) | Average Credit Approved vs Rejected |
-| ![Debt Ratio](images/avg-debt-to-income-by-loan-status.png) | Average Debt-to-Income Ratio by Loan Status |
+> *Note:* The full interactive dashboard with individual visualizations (Channel-wise, region-wise, year-wise, and promotion impact) is available in attached
+> **Power BI (.pbix) ** file.
 
 ---
 ### Summary
